@@ -25,7 +25,7 @@ I am a **Web3 Frontend Engineer** specializing in connecting complex smart contr
 
 ### 📊 Activity & Contributions
 
-<!-- ![Snake animation](https://github.com/AdityaWisnuu/AdityaWisnuu/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/AdityaWisnuu/AdityaWisnuu/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdityaWisnuu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
