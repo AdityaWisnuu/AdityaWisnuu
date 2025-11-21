@@ -4,7 +4,7 @@
 
 I am a **Web3 Frontend Engineer** specializing in connecting complex smart contracts with intuitive user interfaces. I don't just write code; I build seamless on-chain experiences using **TypeScript** and **Solidity**.
 
-- 🔭 **Currently building:** [ScaleX Protocol](https://github.com/ScaleX-Protocol/frontend) — A high-performance CLOB DEX dashboard with integrated lending and real-time order book visualization.
+- 🔭 **Currently building:** [ScaleX Protocol](https://github.com/ScaleX-Protocol) — A high-performance CLOB DEX dashboard with integrated lending and real-time order book visualization.
 - 👯 **Open to:** Collaboration on DeFi, NFT platforms, and open-source Web3 projects.
 - ⚡ **Fun fact:** I brew code and coffee with equal passion in Yogyakarta.
 
