@@ -4,7 +4,10 @@
 
 I am a **Web3 Frontend Engineer** specializing in connecting complex smart contracts with intuitive user interfaces. I don't just write code; I build seamless on-chain experiences using **TypeScript** and **Solidity**.
 
-- 🔭 **Currently building:** [ScaleX Protocol](https://github.com/ScaleX-Protocol) — A high-performance CLOB DEX dashboard with integrated lending and real-time order book visualization.
+- 🔭 **Currently building:** USDX — stablecoin platform (web app, back-office & mobile frontend).
+- 🎤 **Speaking at:** Coinfest Asia 2026, Bali.
+- 🤝 **Community:** running devweb3jogja — Yogyakarta's web3 developer community.
+- 🧪 **Past project:** [ScaleX Protocol](https://github.com/ScaleX-Protocol) — CLOB DEX dashboard with integrated lending and real-time order book.
 - 👯 **Open to:** Collaboration on DeFi, NFT platforms, and open-source Web3 projects.
 - ⚡ **Fun fact:** I brew code and coffee with equal passion in Yogyakarta.
 
@@ -39,8 +42,10 @@ I am a **Web3 Frontend Engineer** specializing in connecting complex smart contr
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/aditya.wisnuu__)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adityawisnu10)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AdityaWisnu__)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityawisnuu/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/aditya.wisnuu__)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adtywisnuwardana003@gmail.com)
 
 </div>
